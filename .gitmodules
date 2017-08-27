@@ -1,0 +1,3 @@
+[submodule "aboutpython_psychopy"]
+	path = aboutpython_psychopy
+	url = https://github.com/sungyongkim/psygrammar_aboutpython_psychopy.git
